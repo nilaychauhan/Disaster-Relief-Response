@@ -8,11 +8,10 @@ In this Project, we'll use a data set containing real messages that were sent du
 ## File Structure
 ~~~~~~~
         disaster_response_pipeline
-          |-- app
-                |-- templates
-                        |-- go.html
-                        |-- master.html
-                |-- run.py
+          |-- application.py
+          |-- templates
+                |-- go.html
+                |-- master.html
           |-- data
                 |-- disaster_message.csv
                 |-- disaster_categories.csv
