@@ -1,6 +1,4 @@
 # Disaster-Relief-Response
-A machine learning pipeline to categorize emergency messages based on the needs communicated by the sender.
-
 ## Problem Statement
 In this project, I've build a model to classify messages that are sent during disasters. There are 36 pre-defined categories, and examples of these categories include Aid Related, Medical Help, Search And Rescue, etc. By classifying these messages, we can allow these messages to be sent to the appropriate disaster relief agency. This project will involve the building of a basic ETL and Machine Learning pipeline to facilitate the task. This is also a multi-label classification task, since a message can belong to one or more categories.
 ## Data Overview
@@ -20,10 +18,9 @@ In this Project, we'll use a data set containing real messages that were sent du
           |-- models
                 |-- classifier.joblib
                 |-- train_classifier.py
+          |-- requirements.txt
           |-- README
 ~~~~~~~
-
-# Data Preparation
-# Modeling
-# Evaluation
-# Deployment
+## Deployment
+I have deployed this project using Amazon Web Services(AWS), it is live [here](http://ec2-54-146-222-127.compute-1.amazonaws.com/)
+## Screenshots
