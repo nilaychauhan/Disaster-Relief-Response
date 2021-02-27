@@ -23,4 +23,3 @@ In this Project, we'll use a data set containing real messages that were sent du
 ~~~~~~~
 ## Deployment
 I have deployed this project using Amazon Web Services(AWS), it is live [here](http://ec2-54-146-222-127.compute-1.amazonaws.com/)
-## Screenshots
